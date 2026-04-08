@@ -4224,7 +4224,7 @@ local function Func_ArtifactAutomation()
 end
 
 local Window = Library:CreateWindow({
-	Title = "fk taolao",
+	Title = "Escuro monge",
 	Footer = "" .. assetName .. " | DUMPED | LOVE YOU",
 	NotifySide = "Right",
     Icon = tostring(theChosenOne),
